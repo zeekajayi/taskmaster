@@ -1,0 +1,14 @@
+{
+  "name": "taskmaster",
+  "version": "1.0.0",
+  "description": "A Task Management System",
+  "main": "tasks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "task"
+  ],
+  "author": "Ezekiel Ajayi",
+  "license": "MIT"
+}
